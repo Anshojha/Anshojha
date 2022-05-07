@@ -1,6 +1,7 @@
 - Hi 👋, A**nsh Ojha**
 - 👀 I’m interested in learning and sharing my coding and programming experience.
-- 🌱 I’m currently learning C and Javascript.
-- 💞️ I’m looking to collaborate on learning.
-- 📫 How to reach me [> Instagram - @__anshojha__](instagram.com/__anshojha__)
+- My stake is C , Html and CSS.
+- 🌱 I’m currently learning DSA and Javascript.
+- 💞️ I’m looking to collaborate on webdevelopment.
+- 📫 
 -  
