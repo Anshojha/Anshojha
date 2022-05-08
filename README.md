@@ -1,7 +1,7 @@
 - Hi 👋, A**nsh Ojha**
 - 👀 I’m interested in learning and sharing my coding and programming experience.
-- My stake is C , Html and CSS.
+- 📫 My stake is C , Html and CSS.
 - 🌱 I’m currently learning DSA and Javascript.
 - 💞️ I’m looking to collaborate on webdevelopment.
-- 📫 
+- 
 -  
