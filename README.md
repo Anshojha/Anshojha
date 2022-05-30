@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Ojha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshojha" alt="anshojha" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=anshojha&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://twitter.com/anshojha12" target="blank"><img src="https://img.shields.io/twitter/follow/anshojha12?logo=twitter&style=for-the-badge" alt="anshojha12" /></a> </p>
 
 - 🌱 I’m currently learning **DSA and C++**
