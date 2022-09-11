@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=anshojha&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://twitter.com/anshojha12" target="blank"><img src="https://img.shields.io/twitter/follow/anshojha12?logo=twitter&style=for-the-badge" alt="anshojha12" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and C++**
+- 🌱 I’m currently learning **DSA and CP**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
