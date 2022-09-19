@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/anshojha12" target="blank"><img src="https://img.shields.io/twitter/follow/anshojha12?logo=twitter&style=for-the-badge" alt="anshojha12" /></a> </p>
 
 - 🌱 I’m currently learning **DSA and CP**
-- 💬 Ask me about **Python,C, C++,  HTML, CSS, JavaScript, MySQL**
+- 💬 Ask me about **Python,C, C++,  HTML, CSS, JavaScript, MySQL, NodeJs and expressJs**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
