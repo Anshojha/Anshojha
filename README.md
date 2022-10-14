@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm Ansh Ojha</h1>
-<h3 align="center">A learner and passionate developer from India  <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></h3>
+<h3 align="center">A open learner and passionate developer from India  <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></h3>
 
 [ <h3 align="left"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Medal.gif" width="20px" height="20px"> My Achievements:</h3>
 ![trophy](https://github-profile-trophy.vercel.app/?username=anshojha&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
