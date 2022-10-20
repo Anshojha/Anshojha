@@ -31,7 +31,5 @@
 [![@anshojha's Holopin board](https://holopin.me/anshojha)](https://holopin.io/@anshojha)
 </p>
 
-
-
 [![](https://visitcount.itsvg.in/api?id=anshojha&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) . 
 
