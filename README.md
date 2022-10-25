@@ -1,4 +1,6 @@
-<h1 align="center">Hi<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm Ansh Ojha</h1>
+
+
+ <h1 align="center">Hi<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm Ansh Ojha</h1>
 <h3 align="center">A open learner and passionate developer from India  <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></h3>
 
 
