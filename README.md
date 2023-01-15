@@ -2,7 +2,7 @@
  <h1 align="center">Hi<img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47h725kwv0sspzozkw09vmylceczlowrmxd1pljclb&rid=giphy.gif&ct=s" width="30px" height="30px">, I'm Ansh Ojha</h1>
 <h3 align="center">A open learner and passionate developer from India  <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></h3>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Enthusiast;Front-End+Developer+)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on web development<br>🤝 I’m looking for help with back-end and web3.0<br>🌱 I’m currently learning Js, python <br>⚡ Fun fact I am a student
