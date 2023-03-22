@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Computer+Enthusiast;Front-End+Developer+)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on web development<br>🤝 I’m looking for help with back-end and web3.0<br>🌱 I’m currently learning Js, python <br>⚡ Fun fact I am a student
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on web development<br>🤝 I’m looking for help with back-end and web3.0<br>🌱 I’m currently learning ReactJs, python <br>⚡ Fun fact I am a student
 
 
 
